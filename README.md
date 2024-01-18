@@ -3,7 +3,9 @@
 ![Circuit Diagram](full_project.jpg)
 
 ## Overview
-This project is a creative implementation of an Arduino-based circuit, designed in the shape of a flower. It's not just an electronic device but also a decorative gift.
+This project is a creative implementation of an Arduino-based circuit, designed in the shape of a flower and featuring LEDs with customizable blinking patterns – random, spinning, or synced with ambient sound. 
+
+It's not just an electronic device but also a decorative gift.
 
 ## Video demonstration
 Click on the image below to see a [video](https://youtu.be/_r4_L2Mu32c) of the project:
